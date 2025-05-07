@@ -1,2 +1,4 @@
 # LabMate
 LabMate – Your smart companion for lab management. It is a smart and efficient Laboratory Management System designed to streamline lab operations. From tracking equipment usage to managing user access and scheduling, LabMate ensures seamless organization and productivity in any laboratory environment.
+
+This is a Comprehensive  Laboratory Management System. It's a web app created using PHP and MySQL Database. The main purpose of this app is to make it easy to handle borrowing and keep track of information in the school/college labs. It's designed with a friendly user interface and lots of features that anyone can use. Only staff registered with the school's computer lab can use this system. It lets users list and store various supplies in the lab. You can also record when supplies are borrowed. Plus, there's an inventory feature to keep track of total supplies and availability.
