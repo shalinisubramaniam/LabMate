@@ -10,12 +10,12 @@ Here are the following features and functionalities of this LabMate:
     • Dashboard Page
     • Total Supply Category
     • Total Pending Borrowed Items
-    • *Category Management* = [Add New Category, List All Categories, Edit Category Details, View Category Details, Delete Category Details]
-    • *Item Management* = [Add New Item, List All Items, Edit Item Details, View Item Details, Delete Item Details]
-    • *Borrows Management* = [Add New Borrowed Item Record, List All Borrowed Items Record, Edit Borrowed Items Record, View Borrowed Items Record, Delete Borrowed Items Record]
-    • *Damage Management* = [Add New Damaged Item Record, List All Damaged Item Record, Edit Damaged Item Record, View Damaged Item Record, Delete Damaged Item Record]
+    • **Category Management** = [Add New Category, List All Categories, Edit Category Details, View Category Details, Delete Category Details]
+    • **Item Management** = [Add New Item, List All Items, Edit Item Details, View Item Details, Delete Item Details]
+    • **Borrows Management** = [Add New Borrowed Item Record, List All Borrowed Items Record, Edit Borrowed Items Record, View Borrowed Items Record, Delete Borrowed Items Record]
+    • **Damage Management** = [Add New Damaged Item Record, List All Damaged Item Record, Edit Damaged Item Record, View Damaged Item Record, Delete Damaged Item Record]
     • Items Invetory
-    • *User Management* = [Add New User, List All Users, Edit User, Delete User]
+    • **User Management** = [Add New User, List All Users, Edit User, Delete User]
     • Update System Information
     • Update Account Information
 
@@ -35,19 +35,19 @@ Here are the following technologies that I used to develop this LabMate:
     • FontAwesome Icons
 
 ### Snapshots
-*Login Page:*
+**Login Page:**
 ![Login Page](image.png)
 
-*Dashboard Page:*
+**Dashboard Page:**
 ![Dashboard Page](image-1.png)
 
-*Borrow Record Form Page:*
+**Borrow Record Form Page:**
 ![Borrow Record Form Page](image-2.png)
 
-*Damaged Record Page:*
+**Damaged Record Page:**
 ![Damaged Record Page](image-3.png)
 
-*Inventory Page:*
+**Inventory Page:**
 ![Inventory Page](image-4.png)
 
 ### How to Run?
